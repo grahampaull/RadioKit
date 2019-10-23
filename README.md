@@ -11,3 +11,6 @@ You can also:
   - Share your Frequencies with other users privately to build collaborative lists for locations
   - Visually view frequencies around you on a map
   - View on Mobile
+ 
+ ![](https://i.imgur.com/CY7cOzn.png)
+ ![](https://i.imgur.com/8VEzsT6.png)

@@ -1,12 +1,16 @@
-## Blazor with Identity
+# RadioKit (RK)
 
-A sample project showcasing a blazor app using ef core with identity
+RadioKit (RK) is an All-in-one management solution for all your radio needs, these include but not limited to:
 
-### How to run
-1. Install [**dotnet-sdk-3.0.100**](https://dotnet.microsoft.com/download/dotnet-core/3.0) and the latest [**Visual Studio 2019**](https://visualstudio.microsoft.com/vs/).
-2. Clone or download.
-3. Open the solution in Visual Studio and press F5.
-4. Create a user using the `Create Account` button in the login page or login if you have already created a user.
+  - Frequency Management (Public & Private)
+  - "Should I Hear" feature to list frequencies you should hear from your location
+  - Logbook - Start logging your reception reports & contacts
+  - Codeplug Builder - Build a code plug for your Analog or DMR Radio
 
-### Live demo
-https://blazorwithidentity.azurewebsites.net/
+You can also:
+  - Share your Frequencies with other users privately to build collaborative lists for locations
+  - Visually view frequencies around you on a map
+  - View on Mobile
+ 
+ ![](https://i.imgur.com/CY7cOzn.png)
+ ![](https://i.imgur.com/8VEzsT6.png)
